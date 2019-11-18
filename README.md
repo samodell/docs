@@ -41,7 +41,7 @@ Each release of the Knative docs are available in the website (starting with
 
 ## Help and support
 
-Your help and feedback is always welcome!
+Your help and feedback is always welcome.
 
 If you find an issue let us know, either by clicking the `Create Issue` on any
 of the website pages, or by directly opening an
